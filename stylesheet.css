@@ -4,12 +4,12 @@ body {
 }
 
 h1, h2 {
-  color: red;
+  color: black;
 }
 
 button {
   color: red;
-  background-color: peachpuff;
+  background-color: pink;
   padding: 5px;
   border-radius: 5px;
 }
