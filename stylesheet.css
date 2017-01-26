@@ -1,15 +1,17 @@
 body {
-  background-color: pink;
+  background-color: lavender;
   font-family: sans-serif;
 }
 
 h1, h2 {
   color: black;
+  font-family: monospace;
 }
 
 button {
   color: red;
   background-color: pink;
   padding: 5px;
+  margin: 15px;
   border-radius: 5px;
 }
