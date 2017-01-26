@@ -1,0 +1,15 @@
+body {
+  background-color: linen;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  color: blue;
+}
+
+button {
+  color: red;
+  background-color: peachpuff;
+  padding: 5px;
+  border-radius: 5px;
+}
